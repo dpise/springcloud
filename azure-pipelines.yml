@@ -17,5 +17,4 @@ steps:
 - script: |
     echo Add other tasks to build, test, and deploy your project.
     echo Hello gurudas
-    echo Build number is ${Build.BuildNumber}
   displayName: 'Run a multi-line script'
